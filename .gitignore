@@ -24,4 +24,6 @@ gradle-app.setting
 .DS_Store
 /build
 /captures
-
+ios/PeopleInSpaceSwiftUI/PeopleInSpaceSwiftUI.xcworkspace/xcuserdata/
+ios/PeopleInSpaceSwiftUI/Pods/
+ios/PeopleInSpaceSwiftUI/PeopleInSpaceSwiftUI.xcodeproj/xcuserdata/
